@@ -1,0 +1,25 @@
+body {
+    background-color: lightcyan;
+}
+
+div.input_field {
+  padding-bottom: 10px;
+}
+	
+div.input_field label {
+	width: 100px;
+	display: inline-block;
+}
+	
+div.action button {
+	border-radius: 8px;
+	border: none;
+	background-color: lightblue;
+	padding: 15px 20px;
+	color: #003366;
+	cursor: pointer;
+}
+	
+div.form {
+	margin: 30px 30px;
+}
